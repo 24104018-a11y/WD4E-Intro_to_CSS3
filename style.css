@@ -11,3 +11,27 @@ h1, h2, h3 {
 
 nav {
     background-color: lightgray;
+    
+main {
+    background-color: lightblue;
+    font-size: 18px;
+}
+
+footer {
+    background-color: gray;
+}
+
+li {
+    display: inline-block;
+    width: 150px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: red;
+    }
+
+p {
+    line-height: 1.5;
+}
